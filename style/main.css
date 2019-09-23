@@ -1,0 +1,27 @@
+html{
+  background: #E9E6FF;
+}
+
+body{
+  max-width: 960px;
+}
+
+header{
+  display: inline;
+  margin: 2em;
+}
+
+img{
+  width: 3em;
+  height: 3em;
+}
+
+h1{
+  display: inline;
+  font-size: 4em;
+  text-align: center;
+}
+
+h2, h3{
+  font-size: 2em;
+}
